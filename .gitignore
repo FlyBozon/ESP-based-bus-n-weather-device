@@ -1,0 +1,34 @@
+# === PlatformIO & ESP-IDF ===
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio/libdeps/
+.pio/build/
+build/
+sdkconfig.*
+*.elf
+*.bin
+*.hex
+
+# === CMake build files ===
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+Makefile
+compile_commands.json
+
+# === IDEs ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === Logs and misc ===
+log/
+*.log
+
+# === Backup & system files ===
+*.orig
+*.swp
+*~
+.DS_Store
+Thumbs.db

@@ -1,4 +1,6 @@
-# ESP-based-bus-n-weather-device
+# WindOS 98
+
+![alt text](photos/outside.jpg)
 
 ESP32-S3 based IoT bus station and weather display for your home.
 
@@ -34,6 +36,9 @@ The goal of this project was to create an IoT device that shows you the next bus
 | Joystick SW | GPIO 3 | Button Press |
 | Joystick VCC | 3.3V | Power |
 | Joystick GND | GND | Ground |
+
+
+![alt text](photos/inside.jpg)
 
 ## Software Requirements
 
